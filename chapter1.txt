@@ -1,3 +1,2 @@
 Changing some words. CHanging more text.  Changing even more text! Change change change.
 
-https://github.com/austinzheng/Swift-SDK.git
